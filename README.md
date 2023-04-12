@@ -7,7 +7,7 @@ This is a simple set up for a FiveM Clothing resource. Go easy first time
 For mine its 
 
 GH-Clothing - Inside this file add a stream file, which is where you add your clothing. But me mindful that each clothing has to be named and numbered correctly -
-
+```
 mp_f_freemode_01^accs_001_a.ydd
 mp_f_freemode_01^accs_002_a.ydd
 mp_f_freemode_01^accs_003_a.ydd
@@ -29,15 +29,17 @@ mp_f_freemode_01^accs_018_a.ydd
 mp_f_freemode_01^accs_019_a.ydd
 mp_f_freemode_01^accs_020_a.ydd
 mp_f_freemode_01^accs_021_a.ydd
-
+```
 So on and so on. 
 
 Make sure you edit the override file for each clothing item, example
- },
+```
+},
 "accs": {
   "start": 22,                
   "end": 22
 },
+```
 Same would go for all other items like props etc.
 
 Happy creating your own clothing pack, 
